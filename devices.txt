@@ -1,0 +1,4 @@
+1 Living Room Light Philips 0
+2 Front Door Camera Sony 0
+3 Kitchen Speaker Sonos 0
+4 Living Room Thermostat Honeywell 0
